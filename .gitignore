@@ -1,0 +1,4 @@
+node_modules/
+vault/
+*.seed-export.json
+.DS_Store

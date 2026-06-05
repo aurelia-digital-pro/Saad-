@@ -1,0 +1,15 @@
+{
+  "memory": [
+    {
+      "id": 1,
+      "text": "Saad memory online"
+    }
+  ],
+  "logs": [
+    {
+      "time": 1780593893869,
+      "event": "first action"
+    }
+  ],
+  "state": "active"
+}

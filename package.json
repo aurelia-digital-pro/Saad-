@@ -1,0 +1,12 @@
+{
+  "name": "seed",
+  "version": "0.1.0",
+  "description": "SEED — sovereign transformation assistant (offline-first)",
+  "type": "module",
+  "bin": {
+    "seed": "./src/cli.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
